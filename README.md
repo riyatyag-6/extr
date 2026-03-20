@@ -1,5 +1,5 @@
 # extr
-flowchart TD
+'''flowchart TD
     U([👤 User]):::user
 
     subgraph Frontend["Frontend — Browser UI"]
@@ -35,4 +35,4 @@ flowchart TD
     RV --> U
 
     classDef user fill:#EEEDFE,stroke:#534AB7,color:#3C3489
-    classDef default fill:#F1EFE8,stroke:#888780,color:#444441
+    classDef default fill:#F1EFE8,stroke:#888780,color:#444441'''
